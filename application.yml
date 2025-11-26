@@ -1,7 +1,0 @@
-spring:
-  application:
-    name: clinica   # Nombre lógico de la aplicación (aparece en logs, Actuator, OTEL, etc.)
-  profiles:
-    active: local
-app:
-  context: /clinica
